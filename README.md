@@ -1,8 +1,9 @@
 <h1 align="center">Dhruv Mishra 👋</h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Dhruv+Mishra+👋;Android+Developer;Building+Women+Safety+App;Learning+DevOps+%26+Docker;Open+Source+Enthusiast" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Android+Developer;Building+Women+Safety+App;Learning+DevOps+%26+Docker;Open+Source+Enthusiast" />
+</p>
+
 
 
 <hr style="border:1px solid #30363d;">
