@@ -10,9 +10,8 @@
 
 
 <p align="center">
-  <img src="giphy.gif" width="450"/>
-  <img src="giphy2.gif" width="450"/>
-</p>
+  <img src="giphy.gif" width="900"/>
+</p>>
 
 <hr style="border:1px solid #30363d;">
 
