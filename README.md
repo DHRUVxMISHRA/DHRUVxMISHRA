@@ -44,8 +44,9 @@
 <h2 align="center">📊 3D Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/output/profile-3d-contrib/profile-night-rainbow.svg"/>
+  <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/output/profile-night-rainbow.svg"/>
 </p>
+
 
 <!-- <h2 align="center">📊 Contribution Graph</h2> -->
 
