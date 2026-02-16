@@ -14,6 +14,8 @@ jobs:
 
       - name: Generate 3D Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy
         uses: crazy-max/ghaction-github-pages@v3
