@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Dhruv Mishra 👋</h1>
+<h1 align="center">Dhruv Mishra 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Android+Developer;Building+Women+Safety+App;Learning+DevOps+%26+Docker;Open+Source+Enthusiast" />
@@ -95,47 +95,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Dhruv Mishra</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Android+Developer;DevOps+Learner;Building+Impactful+Apps" />
-</p>
-
-<br><br>
-
-<p align="center">
-  <img src="giphy.gif" width="800"/>
-</p>
-
-<br><br>
-
-### About
-
-Android developer passionate about building real-world solutions.  
-Currently developing a Women Safety App and exploring DevOps, Docker & CI/CD.
-
-<br>
-
-### Stack
-
-Android · Kotlin · Firebase · Docker · Linux
-
-<br><br>
-
-### Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DHRUVxMISHRA&theme=default&hide_border=true"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/snake-output/github-contribution-grid-snake.svg"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/gh-pages/profile-night-rainbow.svg"/>
-</p>
