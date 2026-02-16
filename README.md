@@ -35,6 +35,10 @@
   <img src="https://streak-stats.demolab.com?user=DHRUVxMISHRA&theme=tokyonight"/>
 </p>
 
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/DHRUVxMISHRA/DHRUVxMISHRA/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **DHRUVxMISHRA/DHRUVxMISHRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
