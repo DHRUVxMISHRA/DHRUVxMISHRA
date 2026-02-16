@@ -41,6 +41,12 @@
   <img src="https://github.com/DHRUVxMISHRA/DHRUVxMISHRA/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
+<h2 align="center">📊 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHRUVxMISHRA&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+</p>
+
 
 
 <!--
