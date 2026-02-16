@@ -14,6 +14,8 @@ jobs:
 
       - name: Generate 3D Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
+        with:
+          USERNAME: DHRUVxMISHRA
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -21,6 +23,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: profile-3d-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
