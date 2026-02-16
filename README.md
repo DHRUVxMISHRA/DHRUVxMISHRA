@@ -35,9 +35,12 @@
   <img src="https://streak-stats.demolab.com?user=DHRUVxMISHRA&theme=tokyonight"/>
 </p>
 
-### 🐍 Contribution Snake
+<h3 align="center">🐍 Contribution Snake</h3>
 
-![snake gif](https://github.com/DHRUVxMISHRA/DHRUVxMISHRA/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/DHRUVxMISHRA/DHRUVxMISHRA/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
 
 
 <!--
