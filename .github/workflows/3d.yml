@@ -9,18 +9,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@v0.7.1
         with:
           USERNAME: DHRUVxMISHRA
-          MAX_REPOS: 100
-          SETTING_JSON: |
-            {
-              "type": "calendar",
-              "backgroundColor": "#0d1117",
-              "textColor": "#58a6ff"
-            }
 
-      - uses: actions/upload-artifact@v3
+      - name: Deploy
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          name: profile-3d
-          path: profile-3d-contrib
+          target_branch: output
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
