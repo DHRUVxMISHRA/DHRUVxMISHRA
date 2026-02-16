@@ -94,62 +94,50 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
-
-<h1 align="center">Dhruv Mishra 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Android+Developer;Building+Women+Safety+App;Learning+DevOps;Open+Source+Enthusiast" />
-</p>
-
-<br>
+-->
+<h1 align="center">Dhruv Mishra ⚡</h1>
 
 <p align="center">
-  <img src="giphy.gif" width="850"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Android+Developer;DevOps+Learner;Docker+%7C+Linux+%7C+CI%2FCD;Building+Impactful+Apps" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech CSE @ Arya College of Engineering  
-- 📱 Building: Women Safety App  
-- 🚀 Learning: Android + Firebase + DevOps  
-- 🐳 Exploring: Docker, Linux, CI/CD  
-- 💡 Goal: Build impactful real-world applications  
-
----
-
-## 🛠 Tech Stack
+<hr style="border:1px solid #00F5FF;">
 
 <p align="center">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="giphy.gif" width="900"/>
 </p>
 
----
+<hr style="border:1px solid #00F5FF;">
 
-## 📊 GitHub Stats
+<h2 align="center">⚙️ TECH STACK</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DHRUVxMISHRA&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge"/>
 </p>
 
----
+<hr style="border:1px solid #00F5FF;">
 
-## 🐍 Contribution Snake
+<h2 align="center">📊 SYSTEM STATS</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DHRUVxMISHRA&theme=tokyonight&hide_border=true"/>
+</p>
+
+<hr style="border:1px solid #00F5FF;">
+
+<h2 align="center">🐍 CODE ACTIVITY</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/snake-output/github-contribution-grid-snake.svg"/>
 </p>
 
----
-
-## 📊 3D Contribution Graph
+<h2 align="center">🧊 3D CONTRIBUTION MATRIX</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/gh-pages/profile-night-rainbow.svg"/>
 </p>
+
