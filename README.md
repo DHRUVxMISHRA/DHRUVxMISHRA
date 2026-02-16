@@ -38,8 +38,9 @@
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
-  <img src="https://github.com/DHRUVxMISHRA/DHRUVxMISHRA/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/output/github-contribution-grid-snake.svg"/>
 </p>
+
 
 <h2 align="center">📊 3D Contribution Graph</h2>
 
