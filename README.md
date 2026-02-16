@@ -4,6 +4,10 @@
   <img src="giphy.gif" width="900"/>
 </p>
 
+<p align="center">
+  <img src="giphy2.gif" width="900"/>
+</p>
+
 
 <!--
 **DHRUVxMISHRA/DHRUVxMISHRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
