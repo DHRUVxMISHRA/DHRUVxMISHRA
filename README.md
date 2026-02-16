@@ -20,7 +20,6 @@
 
 <hr style="border:1px solid #30363d;">
 
----
 
 ### 👨‍💻 About Me
 
@@ -47,7 +46,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHRUVxMISHRA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DHRUVxMISHRA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </p>
 
 <p align="center">
@@ -55,6 +54,7 @@
 </p>
 
 <hr style="border:1px solid #30363d;">
+
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
