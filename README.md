@@ -243,6 +243,14 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Android+%2B+Backend+Engineer;Building+Real-Time+Safety+Systems;MVVM+%7C+FastAPI+%7C+Clean+Architecture;Open+Source+Enthusiast" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Real--Time%20Women%20Safety%20System-Actively%20Developing-58A6FF?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <em>I build systems that react before the user has time to panic.</em>
+</p>
+
 <hr style="border:1px solid #30363d;">
 
 <p align="center">
@@ -253,19 +261,29 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-- Android + Backend Systems Engineer
-- Builder of real-time event-driven safety applications
-- Strong focus on Clean Architecture (MVVM)
-- Exploring DevOps, Cloud & scalable backend systems
+- Android + Backend Systems Engineer  
+- Builder of real-time event-driven safety applications  
+- Strong focus on Clean Architecture (MVVM)  
+- Exploring DevOps, Cloud & scalable backend systems  
 
 ---
-
 
 ## 🏗 Real-Time Women Safety System – Architecture
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/main/women-safety-architecture.svg" width="1000"/>
 </p>
+
+---
+
+## 🎬 Live SOS Trigger Simulation
+
+<p align="center">
+  <!-- Replace with your demo gif -->
+  <img src="sos-demo.gif" width="800"/>
+</p>
+
+*(Recording in progress – demonstrating real-time emergency trigger execution)*
 
 ---
 
@@ -277,53 +295,64 @@ Here are some ideas to get you started:
 - Manual SOS Activation
 
 **Execution Flow**
-1. Capture real-time location
-2. Start foreground tracking service
-3. Send coordinates to FastAPI backend
+1. Capture real-time location  
+2. Start foreground tracking service  
+3. Send coordinates to FastAPI backend  
 4. Backend dispatch:
-   - Twilio SMS (Live Location)
-   - WhatsApp Alert via Twilio API
+   - Twilio SMS (Live Location)  
+   - WhatsApp Alert via Twilio API  
 
-**Planned Enhancements**
-- Continuous backend location streaming
-- Offline caching + retry mechanism
-- Firebase-based SOS history logging
-- Cloud deployment architecture
+---
+
+## 📈 System Characteristics
+
+- Event-driven emergency architecture  
+- Foreground-safe real-time tracking  
+- Backend-controlled dispatch logic  
+- AI-assisted safety chatbot  
+- Modular MVVM Android structure  
+- Designed for cloud scalability  
 
 ---
 
 ## ⚙️ Engineering Execution
 
 ### Android Ownership
-I independently designed and built the complete Android system layer.
-
-- MVVM + Clean Architecture implementation
-- Foreground service-based tracking
-- Sensor-triggered emergency activation
-- Retrofit integration with backend APIs
-- Secure client-server communication
+- Complete MVVM + Clean Architecture implementation  
+- Foreground service tracking  
+- Sensor-triggered emergency activation  
+- Retrofit backend integration  
+- Secure client-server communication  
 
 ### Backend Integration
-- FastAPI REST endpoints
-- MongoDB persistence layer
-- AI Chatbot (OpenAI API, strict safety prompting)
-- Twilio-based emergency dispatch
+- FastAPI REST APIs  
+- MongoDB persistence  
+- OpenAI safety-restricted chatbot  
+- Twilio emergency dispatch system  
 
 ---
 
 ## 🔐 Security & Privacy Thinking
 
-- HTTPS-only backend communication
-- Backend-managed API keys
-- No secret exposure in client
-- Firebase authentication layer
-- Prompt-controlled AI response boundaries
+- HTTPS-only communication  
+- Backend-managed API keys  
+- Firebase authentication  
+- No client-side secret exposure  
 
 **In Progress**
-- Token validation layer
-- Rate limiting for SOS endpoints
-- Secret management hardening
-- Local encrypted emergency cache
+- Token validation layer  
+- Rate limiting  
+- Secure secret management  
+- Offline encrypted emergency cache  
+
+---
+
+## 🟢 Currently Building
+
+- Continuous backend location streaming  
+- SOS history logging system  
+- Cloud deployment strategy  
+- Deployment automation pipeline  
 
 ---
 
@@ -362,3 +391,4 @@ I independently designed and built the complete Android system layer.
 <p align="center">
   <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/gh-pages/profile-night-rainbow.svg"/>
 </p>
+
