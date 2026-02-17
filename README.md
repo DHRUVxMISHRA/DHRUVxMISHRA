@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="giphy.gif" width="900"/>
-</p>>
+</p>
 
 <hr style="border:1px solid #30363d;">
 
@@ -23,6 +23,16 @@
 - 🔥 Learning: Android + Firebase + DevOps
 - 🐳 Exploring: Docker, Linux, CI/CD
 - 💡 Goal: Build impactful real-world applications
+
+<hr style="border:1px solid #30363d;">
+
+<hr style="border:1px solid #30363d;">
+
+<h2 align="center">🏗 Women Safety App – System Architecture</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/main/women-safety-architecture.svg" width="1000"/>
+</p>
 
 <hr style="border:1px solid #30363d;">
 
