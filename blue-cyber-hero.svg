@@ -1,64 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1600" height="400" viewBox="0 0 1600 400" xmlns="http://www.w3.org/2000/svg">
+<svg width="1600" height="420" viewBox="0 0 1600 420" xmlns="http://www.w3.org/2000/svg">
 
 <defs>
-  <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-    <stop offset="0%" stop-color="#0B1120">
-      <animate attributeName="stop-color" values="#0B1120;#0E1A35;#0B1120" dur="8s" repeatCount="indefinite"/>
-    </stop>
-    <stop offset="100%" stop-color="#111827">
-      <animate attributeName="stop-color" values="#111827;#0F172A;#111827" dur="8s" repeatCount="indefinite"/>
-    </stop>
+  <!-- Background Gradient -->
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0A0F1E"/>
+    <stop offset="100%" stop-color="#0E1628"/>
   </linearGradient>
 
-  <linearGradient id="lineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+  <!-- Accent Gradient -->
+  <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
     <stop offset="0%" stop-color="#58A6FF"/>
     <stop offset="100%" stop-color="#1F6FEB"/>
   </linearGradient>
 
+  <!-- Glow -->
   <filter id="glow">
-    <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+    <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
     <feMerge>
       <feMergeNode in="coloredBlur"/>
       <feMergeNode in="SourceGraphic"/>
     </feMerge>
   </filter>
+
+  <!-- Subtle Grid Pattern -->
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1F2937" stroke-width="1"/>
+  </pattern>
 </defs>
 
-<rect width="100%" height="100%" fill="url(#bgGradient)"/>
+<!-- Background -->
+<rect width="100%" height="100%" fill="url(#bg)"/>
+<rect width="100%" height="100%" fill="url(#grid)" opacity="0.15"/>
+
+<!-- Glass Card -->
+<rect x="20%" y="18%" width="60%" height="65%" rx="20"
+      fill="#111827"
+      opacity="0.85"
+      stroke="url(#accent)"
+      stroke-width="1.5"/>
 
 <!-- Name -->
 <text x="50%" y="45%" text-anchor="middle"
-      font-size="48"
-      font-family="Arial"
+      font-size="52"
+      font-family="Segoe UI, Arial"
       fill="#FFFFFF"
       font-weight="bold">
   Dhruv Mishra
 </text>
 
-<!-- Title -->
+<!-- Role -->
 <text x="50%" y="58%" text-anchor="middle"
       font-size="24"
-      font-family="Arial"
+      font-family="Segoe UI, Arial"
       fill="#58A6FF">
-  Android + Backend Engineer
+  Android + Backend Systems Engineer
 </text>
 
 <!-- Tagline -->
 <text x="50%" y="70%" text-anchor="middle"
       font-size="20"
-      font-family="Arial"
+      font-family="Segoe UI, Arial"
       fill="#C9D1D9">
-  Engineering systems that respond when seconds matter.
+  Building real-time systems that respond when seconds matter.
 </text>
 
-<!-- Glowing Divider Line -->
-<rect x="30%" y="78%" width="40%" height="4"
-      fill="url(#lineGradient)"
+<!-- Animated Accent Line -->
+<rect x="35%" y="78%" width="30%" height="4"
+      fill="url(#accent)"
       filter="url(#glow)">
   <animate attributeName="width"
-           values="0;40%;40%;0"
-           dur="6s"
+           values="0;30%;30%;0"
+           dur="5s"
            repeatCount="indefinite"/>
 </rect>
 
