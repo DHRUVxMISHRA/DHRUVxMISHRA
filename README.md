@@ -35,6 +35,74 @@
 
 <hr style="border:1px solid #30363d;">
 
+<h2 align="center">🧠 Project Deep Dive – SOS Intelligence Flow</h2>
+
+### 🚨 Emergency Trigger Flow (Current Implementation)
+
+When SOS is triggered via:
+- 📳 Shake Detection (Accelerometer)
+- 🔘 Double Volume Key Press
+- 🆘 Manual SOS Button
+
+The system executes:
+
+1. 📍 Capture Real-Time Location
+2. 🔔 Start Foreground Location Service
+3. 🌐 Send Location to FastAPI Backend
+4. 📩 Backend triggers:
+   - Twilio SMS with Live Location
+   - WhatsApp Message via Twilio API
+
+---
+
+### 🔄 Planned Enhancements (In Progress)
+
+- 🔁 Continuous Location Streaming to Backend
+- 💾 Local Storage + Retry Mechanism if Internet Fails
+- 📊 SOS History Logging in Firebase Firestore
+- ☁ Future Cloud Deployment (AWS)
+
+---
+
+### 🤖 AI Chatbot Architecture
+
+- Powered by OpenAI API
+- Strict Prompt Engineering
+- Context-Limited to Safety Topics Only
+- Backend Managed Conversation Control
+- Integrated into FastAPI Service Layer
+
+The chatbot is designed to:
+- Provide emergency guidance
+- Offer safety tips
+- Assist users during high-risk situations
+- Avoid non-safety responses
+
+---
+
+### 🧩 Engineering Decisions
+
+- MVVM + Repository Pattern for Clean Architecture
+- Foreground Services for Reliable Tracking
+- Sensor-Based Trigger Detection (No UI Required)
+- Backend-Controlled SMS & WhatsApp Dispatch
+- Scalable Architecture for Future Cloud Deployment
+
+<hr style="border:1px solid #30363d;">
+
+<h2 align="center">⚙️ Engineering Highlights</h2>
+
+- 🔒 Background-Safe Emergency Trigger System
+- 📡 Real-Time Location Capture via Foreground Service
+- 🧠 Sensor-Level Detection (Accelerometer + Volume Events)
+- 🌐 Backend-Controlled Notification Dispatch (Twilio)
+- 🗃 MongoDB for Structured Emergency Records
+- 🔐 Firebase Authentication Layer
+- 🧩 Modular MVVM Architecture
+- 🚀 Future-Ready Cloud Deployment Strategy
+- 🤖 AI Safety Assistant with Controlled Prompting
+
+<hr style="border:1px solid #30363d;">
 ### 🛠 Tech Stack
 
 <p>
