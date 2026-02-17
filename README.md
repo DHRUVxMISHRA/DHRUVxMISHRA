@@ -136,6 +136,44 @@ The chatbot is designed to:
 - Future: Automatic data expiration for old SOS logs
 
 <hr style="border:1px solid #30363d;">
+
+<h2 align="center">👨‍💻 My Engineering Ownership</h2>
+
+### 📱 Android System Owner
+
+I independently designed and developed the complete Android application layer of the Women Safety System.
+
+My responsibilities included:
+
+- 🏗 Full Android architecture implementation (MVVM + Clean Architecture)
+- 🚨 Complete SOS trigger system logic
+- 📳 Sensor-based emergency detection (Accelerometer + Volume events)
+- 📡 Real-Time Location Foreground Service
+- 🌐 Retrofit integration with FastAPI backend
+- 🔐 Secure API communication handling
+- 🧩 Modular repository-based data flow design
+
+---
+
+### 🧠 System-Level Contributions
+
+- Designed Android-to-Backend communication pipeline
+- Engineered foreground-safe emergency execution logic
+- Built sensor-triggered background-safe emergency activation
+- Structured Android project using scalable architecture patterns
+
+---
+
+### 🎯 Engineering Focus
+
+My primary expertise in this project:
+
+Android Systems Engineering  
+Backend API Integration  
+Real-Time Event Handling  
+Clean Architecture Design
+
+<hr style="border:1px solid #30363d;">
 ### 🛠 Tech Stack
 
 <p>
