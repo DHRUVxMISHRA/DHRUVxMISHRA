@@ -250,9 +250,7 @@ Here are some ideas to get you started:
 <p align="center">
   <em>I build systems that react before the user has time to panic.</em>
 </p> 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/main/background.svg" width="100%"/>
-</p>
+
 
 
 
