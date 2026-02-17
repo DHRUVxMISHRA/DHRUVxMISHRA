@@ -260,7 +260,6 @@ Here are some ideas to get you started:
 
 ---
 
-<hr style="border:1px solid #30363d;">
 
 ## 🏗 Real-Time Women Safety System – Architecture
 
