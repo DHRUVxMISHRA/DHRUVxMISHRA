@@ -276,14 +276,21 @@ Here are some ideas to get you started:
 
 ---
 
-## 🎬 Live SOS Trigger Simulation
 
-<p align="center">
-  <!-- Replace with your demo gif -->
+## 🎬 SOS Trigger Execution Overview
+
+This system executes emergency dispatch within seconds using:
+- Sensor-based detection
+- Foreground-safe tracking
+- Backend-triggered messaging
+
+<!--## 🎬 Live SOS Trigger Simulation
+<!-- <p align="center">
+  <!-- Replace with your demo gif 
   <img src="sos-demo.gif" width="800"/>
-</p>
+</p> 
 
-*(Recording in progress – demonstrating real-time emergency trigger execution)*
+*(Recording in progress – demonstrating real-time emergency trigger execution)*-->
 
 ---
 
