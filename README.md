@@ -237,7 +237,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<h1 align="center">Dhruv Mishra 👋</h1>
+<!-- <h1 align="center">Dhruv Mishra 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Android+%2B+Backend+Engineer;Building+Real-Time+Safety+Systems;MVVM+%7C+FastAPI+%7C+Clean+Architecture;Open+Source+Enthusiast" />
@@ -249,6 +249,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <em>I build systems that react before the user has time to panic.</em>
+</p> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/main/blue-cyber-hero.svg" width="100%"/>
 </p>
 
 <hr style="border:1px solid #30363d;">
