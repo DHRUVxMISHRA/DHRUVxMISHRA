@@ -103,6 +103,39 @@ The chatbot is designed to:
 - 🤖 AI Safety Assistant with Controlled Prompting
 
 <hr style="border:1px solid #30363d;">
+
+<h2 align="center">🔐 Security & Privacy Engineering</h2>
+
+### 🛡 Current Implementation
+
+- 🔒 All backend communication over HTTPS
+- 🔑 API keys handled securely on backend (not exposed in Android client)
+- 📡 Location data transmitted via secure REST endpoints
+- 🔐 Firebase Authentication for user identity management
+- 🤖 OpenAI API managed from backend only (no client-side exposure)
+
+---
+
+### 🚧 In Progress / Planned Security Enhancements
+
+- 🔐 Environment-based secret management (.env → cloud secret manager)
+- 🗝 Token-based request validation between Android & Backend
+- 🚦 Rate limiting on SOS endpoints
+- 🧾 Secure logging for emergency events
+- 📦 Encrypted storage for local emergency cache
+- 🛑 Prompt injection prevention hardening in chatbot
+- 🧠 Abuse detection & spam protection
+
+---
+
+### 🧩 Privacy Design Philosophy
+
+- Only necessary data is transmitted
+- Location shared only during active SOS
+- Backend-controlled emergency dispatch
+- Future: Automatic data expiration for old SOS logs
+
+<hr style="border:1px solid #30363d;">
 ### 🛠 Tech Stack
 
 <p>
