@@ -251,6 +251,10 @@ Here are some ideas to get you started:
   <em>I build systems that react before the user has time to panic.</em>
 </p> -->
 <p align="center">
+  <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/main/background.svg" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/main/blue-cyber-hero.svg" width="100%"/>
 </p>
 
