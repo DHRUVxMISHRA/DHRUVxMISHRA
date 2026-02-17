@@ -1,4 +1,4 @@
-<h1 align="center">Dhruv Mishra 👋</h1>
+<!-- <h1 align="center">Dhruv Mishra 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Android+Developer;Building+Women+Safety+App;Learning+DevOps+%26+Docker;Open+Source+Enthusiast" />
@@ -236,4 +236,130 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
+<h1 align="center">Dhruv Mishra 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Android+%2B+Backend+Engineer;Building+Real-Time+Safety+Systems;MVVM+%7C+FastAPI+%7C+Clean+Architecture;Open+Source+Enthusiast" />
+</p>
+
+<hr style="border:1px solid #30363d;">
+
+<p align="center">
+  <img src="giphy.gif" width="900"/>
+</p>
+
+<hr style="border:1px solid #30363d;">
+
+## 👨‍💻 About Me
+
+- Android + Backend Systems Engineer
+- Builder of real-time event-driven safety applications
+- Strong focus on Clean Architecture (MVVM)
+- Exploring DevOps, Cloud & scalable backend systems
+
+---
+
+<hr style="border:1px solid #30363d;">
+
+## 🏗 Real-Time Women Safety System – Architecture
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/main/women-safety-architecture.svg" width="1000"/>
+</p>
+
+---
+
+## 🚨 Emergency Execution Pipeline
+
+**Trigger Sources**
+- Shake Detection (Accelerometer)
+- Double Volume Key Press
+- Manual SOS Activation
+
+**Execution Flow**
+1. Capture real-time location
+2. Start foreground tracking service
+3. Send coordinates to FastAPI backend
+4. Backend dispatch:
+   - Twilio SMS (Live Location)
+   - WhatsApp Alert via Twilio API
+
+**Planned Enhancements**
+- Continuous backend location streaming
+- Offline caching + retry mechanism
+- Firebase-based SOS history logging
+- Cloud deployment architecture
+
+---
+
+## ⚙️ Engineering Execution
+
+### Android Ownership
+I independently designed and built the complete Android system layer.
+
+- MVVM + Clean Architecture implementation
+- Foreground service-based tracking
+- Sensor-triggered emergency activation
+- Retrofit integration with backend APIs
+- Secure client-server communication
+
+### Backend Integration
+- FastAPI REST endpoints
+- MongoDB persistence layer
+- AI Chatbot (OpenAI API, strict safety prompting)
+- Twilio-based emergency dispatch
+
+---
+
+## 🔐 Security & Privacy Thinking
+
+- HTTPS-only backend communication
+- Backend-managed API keys
+- No secret exposure in client
+- Firebase authentication layer
+- Prompt-controlled AI response boundaries
+
+**In Progress**
+- Token validation layer
+- Rate limiting for SOS endpoints
+- Secret management hardening
+- Local encrypted emergency cache
+
+---
+
+## 🛠 Core Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DHRUVxMISHRA&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/snake-output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/gh-pages/profile-night-rainbow.svg"/>
+</p>
