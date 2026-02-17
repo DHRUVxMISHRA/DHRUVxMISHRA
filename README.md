@@ -26,7 +26,6 @@
 
 <hr style="border:1px solid #30363d;">
 
-<hr style="border:1px solid #30363d;">
 
 <h2 align="center">🏗 Women Safety App – System Architecture</h2>
 
