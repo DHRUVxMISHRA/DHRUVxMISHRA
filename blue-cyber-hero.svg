@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="400" viewBox="0 0 1600 400" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0B1120">
+      <animate attributeName="stop-color" values="#0B1120;#0E1A35;#0B1120" dur="8s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#111827">
+      <animate attributeName="stop-color" values="#111827;#0F172A;#111827" dur="8s" repeatCount="indefinite"/>
+    </stop>
+  </linearGradient>
+
+  <linearGradient id="lineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#58A6FF"/>
+    <stop offset="100%" stop-color="#1F6FEB"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+    <feMerge>
+      <feMergeNode in="coloredBlur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<rect width="100%" height="100%" fill="url(#bgGradient)"/>
+
+<!-- Name -->
+<text x="50%" y="45%" text-anchor="middle"
+      font-size="48"
+      font-family="Arial"
+      fill="#FFFFFF"
+      font-weight="bold">
+  Dhruv Mishra
+</text>
+
+<!-- Title -->
+<text x="50%" y="58%" text-anchor="middle"
+      font-size="24"
+      font-family="Arial"
+      fill="#58A6FF">
+  Android + Backend Engineer
+</text>
+
+<!-- Tagline -->
+<text x="50%" y="70%" text-anchor="middle"
+      font-size="20"
+      font-family="Arial"
+      fill="#C9D1D9">
+  Engineering systems that respond when seconds matter.
+</text>
+
+<!-- Glowing Divider Line -->
+<rect x="30%" y="78%" width="40%" height="4"
+      fill="url(#lineGradient)"
+      filter="url(#glow)">
+  <animate attributeName="width"
+           values="0;40%;40%;0"
+           dur="6s"
+           repeatCount="indefinite"/>
+</rect>
+
+</svg>
