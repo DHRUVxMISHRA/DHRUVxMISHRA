@@ -388,12 +388,16 @@ This system executes emergency dispatch within seconds using:
 
 ---
 
-## 🐍 Contribution Activity
+<!--## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/snake-output/github-contribution-grid-snake.svg"/>
-</p>
+</p>-->
+## 🟡 Pacman Contribution Graph
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/output/pacman-contribution-graph.svg"/>
+</p>
 ---
 
 ## 🧊 3D Contribution Graph
