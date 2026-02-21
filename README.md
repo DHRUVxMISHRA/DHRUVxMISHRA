@@ -396,7 +396,7 @@ This system executes emergency dispatch within seconds using:
 ## 🟡 Pacman Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/output3/pacman-contribution-graph.svg"/>
+  <img src="https://raw.githubusercontent.com/DHRUVxMISHRA/DHRUVxMISHRA/output/pacman-contribution-graph.svg"/>
 </p>
 ---
 
