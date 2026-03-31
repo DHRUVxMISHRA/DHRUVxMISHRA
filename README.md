@@ -113,8 +113,8 @@ MVVM • Clean Architecture
 ## 🤝 Let's Connect
 
 - 📧 Email: dhruvm03122005@gmail.com  
-- 💼 LinkedIn: *(Add your link)*  
-- 🌐 Portfolio: *(Optional – add later)*  
+- 💼 LinkedIn: www.linkedin.com/in/dhruv-mishra-637445293 
+<!--- 🌐 Portfolio: *(Optional – add later)*-->  
 
 ---
 
