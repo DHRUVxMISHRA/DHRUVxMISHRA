@@ -22,83 +22,110 @@
 
 ## 🚀 Featured Projects
 
-### 🔴 Women Safety App
+### 🔴 Women Safety App  
 **Kotlin | Firebase | Google Maps API | FastAPI | Twilio**
+
+🔗 [GitHub Repo](https://github.com/DHRUVxMISHRA/women-safety-app)  
+📦 [Download APK](https://github.com/DHRUVxMISHRA/women-safety-app/releases/tag/v1.0)
+
+---
+
+### 🎬 Demo (Real-Time SOS Execution)
+
+<p align="center">
+  <img src="sos-demo.gif" width="700"/>
+</p>
+
+*(Replace `sos-demo.gif` with your actual uploaded GIF in repo)*
+
+---
 
 - 🚨 One-tap SOS with real-time location tracking  
 - 📳 Shake detection + background emergency trigger  
 - 📡 Live location sharing via backend APIs  
 - 📩 SMS & WhatsApp alerts using Twilio  
 - 🧭 Safe route navigation with Maps integration  
-- 🌙 Dark mode + multi-screen UI (12+ screens)
+- 🌙 Dark mode + 12+ screens UI  
 
 ---
 
-### 🍔 Food Delivery App
+### 🍔 Food Delivery App  
 **Kotlin | Firebase | REST APIs | Razorpay**
 
-- 🛒 Full cart & checkout system  
-- 📱 12+ UI screens with Jetpack Compose  
+🔗 [GitHub Repo](https://github.com/DHRUVxMISHRA/FoodAPP-FullStack)
+
+- 🛒 Cart + checkout system  
+- 📱 12+ UI screens  
 - 🔐 Firebase authentication  
-- 🔄 Modular & scalable architecture  
+- 🔄 Scalable architecture  
 
 ---
 
-### ⌚ Wear OS Apps
+### ⌚ Wear OS Apps  
 **Kotlin | Wear OS**
 
-- Stopwatch App  
-- Omnitrix themed app with animations  
-- Optimized UI for small screens  
+🔗 [Stopwatch](https://github.com/DHRUVxMISHRA/nova-time-wearos)  
+🔗 [Omnitrix](https://github.com/DHRUVxMISHRA/omnitrix-wearos)
+
+- Optimized UI for wearable devices  
+- Custom animations & interactions  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:**  
-Kotlin • Java • C • C++ • Python • SQL  
+<p align="center">
 
-**Mobile Development:**  
-Android • Jetpack Compose • Wear OS  
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-**Backend & APIs:**  
-Firebase • REST APIs • Ktor • Retrofit  
+<br>
 
-**Databases:**  
-MySQL • PostgreSQL  
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wear%20OS-4285F4?style=for-the-badge&logo=wearos&logoColor=white"/>
 
-**Tools:**  
-Git • GitHub • Android Studio • Postman  
+<br>
 
-**Architecture:**  
-MVVM • Clean Architecture  
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ktor-000000?style=for-the-badge&logo=ktor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
----
+<br>
 
-## 🧠 Core Strengths
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-- 📱 Android App Development  
-- 🔗 API Integration & Backend Communication  
-- 🧩 Clean Architecture & Scalable Design  
-- ⚡ Real-world problem solving  
+<br>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Top 1% (Gold Medal)** – NPTEL (OOP, C Programming)  
-- 🥇 **Top 2% (Gold Medal)** – Data Structures & Algorithms  
-- 🥈 **Top 5% (Silver Medal)** – Modern C++  
-- 🎖 NPTEL Honors: Discipline Star, Super Star, Motivated Learner  
-- 🏆 **2nd Runner-Up – College Hackathon**
+- 🥇 Top 1% (Gold Medal) – NPTEL  
+- 🥇 Top 2% – Data Structures & Algorithms  
+- 🥈 Top 5% – Modern C++  
+- 🎖 Discipline Star | Super Star | Motivated Learner  
+- 🏆 2nd Runner-Up – Hackathon  
 
 ---
 
 ## 📈 Currently Learning
 
-- ⚙️ Backend Development (Ktor, FastAPI)  
-- ☁️ Cloud & DevOps (Docker, CI/CD)  
-- 🧠 System Design  
+- Backend Development (Ktor, FastAPI)  
+- Cloud & DevOps (Docker, CI/CD)  
+- System Design  
 
 ---
 
@@ -112,9 +139,9 @@ MVVM • Clean Architecture
 
 ## 🤝 Let's Connect
 
-- 📧 Email: dhruvm03122005@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/dhruv-mishra-637445293 
-<!--- 🌐 Portfolio: *(Optional – add later)*-->  
+- 📧 dhruvm03122005@gmail.com  
+- 💼 https://www.linkedin.com/in/dhruv-mishra-637445293/  
+- 💻 https://github.com/DHRUVxMISHRA  
 
 ---
 
